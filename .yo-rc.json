@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "NoSQL is a lie",
+    "packageVersion": "0.1.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "nosql-is-a-lie-crate-meetup"
+  }
+}
